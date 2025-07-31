@@ -1,4 +1,10 @@
-namespace DesafioProjetoHospedagem.Models
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace trilha_net_explorando_desafios.Models
 {
     public class Suite
     {
